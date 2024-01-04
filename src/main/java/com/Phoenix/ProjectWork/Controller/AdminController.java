@@ -10,5 +10,6 @@ public class AdminController {
 	public String getAdmin() {
 		return "Admin.html";
 	}
+	
 
 }
